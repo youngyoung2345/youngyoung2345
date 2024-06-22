@@ -1,4 +1,4 @@
-## Hi there 👋
+## I dream of a world in which my program helps everyone.
 
 <!--
 **youngyoung2345/youngyoung2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
