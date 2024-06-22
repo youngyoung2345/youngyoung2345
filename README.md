@@ -1,4 +1,10 @@
-## I dream of a world in which my program helps everyone.
+## I dream that I can help anyone use my program.
+
+## STACK
+
+<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 
 <!--
 **youngyoung2345/youngyoung2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
