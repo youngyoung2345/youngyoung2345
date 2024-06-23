@@ -1,4 +1,4 @@
-## I dream that I can help anyone use my program.
+# I dream that I can help anyone use my program.
 
 ## About Me
 
