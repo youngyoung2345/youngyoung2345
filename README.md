@@ -16,4 +16,4 @@ However, I am still exploring my dreams because artificial intelligence is such 
 
 ## Activity
 
-- Undergraduate Intern, Visual Science Lab (VS Lab), June 2024 - Present
+- Undergraduate Intern, Visual Science Lab (VS Lab), Kyunghee University, June 2024 - Present
