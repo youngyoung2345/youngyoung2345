@@ -18,3 +18,4 @@ However, I am still exploring my dreams because artificial intelligence is such 
 
 - Member of KHUDA, Data analysis & AI club, KyungHee Univerity, January 2024 - May 2024
 - Undergraduate Intern, Visual Science Lab (VS Lab), KyungHee University, June 2024 - Present
+- Member of KHUDA, Data analysis & AI club, KyungHee Univerity, July 2024 - Present
