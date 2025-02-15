@@ -21,5 +21,6 @@ However, I am still exploring my dreams because artificial intelligence is such 
 - CV track leader of KHUDA 6th, July 2024 - December 2024
 - Member of KHUDA 7th, January 2025 - Present
 
+
 **Visual Science Lab (VS Lab), KyungHee University**
 - Undergraduate Intern, June 2024 - Present
