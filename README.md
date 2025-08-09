@@ -30,3 +30,9 @@ However, I am still exploring my dreams because artificial intelligence is such 
 
 **Visual Science Lab (VS Lab), KyungHee University**
 - Undergraduate Intern, June 2024 - Present
+
+## Prize
+
+- 2025 Korea Computer Conference (KCC) Encouragement Prize : Enhancing Weakly Supervised Video Anomaly Detection via
+Fine-grained Anomaly Classifier
+
