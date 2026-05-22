@@ -16,7 +16,7 @@ However, I am still exploring my dreams because artificial intelligence is such 
 ## Interest & Research
 
 - Style Transfer : 2024 - 2025
-- Video Anomaly Detection : 2025
+- Video Anomaly Detection : 2025 - Present
 - 3D : 2025 - Present
 
 
