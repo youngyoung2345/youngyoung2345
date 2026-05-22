@@ -2,10 +2,6 @@
 
 ## About Me
 
-Hello, my name is Hayoung Lee. 
-One of my hobbies is digital drawing, so I'm interested in computer vision. 
-However, I am still exploring my dreams because artificial intelligence is such an exciting subject for me.
-
 🏫 : Department of Software Convergence, Kyunghee University, Korea
 
 
@@ -18,7 +14,6 @@ However, I am still exploring my dreams because artificial intelligence is such 
 - Style Transfer : 2024 - 2025
 - Video Anomaly Detection : 2025 - Present
 - 3D : 2025 - Present
-
 
 ## Activity
 
