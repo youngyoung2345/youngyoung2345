@@ -1,9 +1,6 @@
-# I dream that I can help anyone use my program.
-
 ## About Me
 
 🏫 : Department of Software Convergence, Kyunghee University, Korea
-
 
 ## STACK
 
